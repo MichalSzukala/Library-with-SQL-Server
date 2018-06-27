@@ -1,10 +1,10 @@
 # Library-with-SQL-Server
-## Simulation of Book Library connected with SQL Server
+## Simulation of a Book Library connected with an SQL Server
 
-SQL Server databases to the project are in DB directory
-- libraryDB is main DB
-- testDB is dummy DB used for testing purposes
+SQL Server databases to the project are in the DB directory
+- libraryDB is the main DB
+- testDB is a dummy DB used for testing purposes
 
-Database Architecture present picture below:
+Database Architecture presents the picture below:
 
 ![](DB/database.png)
